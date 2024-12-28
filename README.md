@@ -1,4 +1,4 @@
-# Välkommen till min sida!
+# Welcome!
 
 - 👋 Hi, I’m @ellinorjohansson
 - 🌱 I’m currently learning Front End Developer
