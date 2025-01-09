@@ -14,7 +14,7 @@ Hi there! 👋 I am a frontend developer in training with a passion for creating
 
 💼 [LinkedIn](https://www.linkedin.com/in/ellinor-johansson-957a20224/)
 
-📧 [Email](mailto:ellinor.asaka@gmail.com)
+📧 ellinor.asaka@gmail.com
 
 ## 💡 Fun Facts
 
