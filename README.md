@@ -1,8 +1,8 @@
-# ⭐ Welcome to My GitHub Profile!
+# ⭐ Welcome to my GitHub profile!
 
-Hi there! 👋 I am a frontend developer in training with a passion for creating beautiful and functional web applications. Here's a bit about me:
+Hi there! 👋 I am a Frontend Developer in training with a passion for creating beautiful and functional web applications. Here's a bit about me:
 
-## 👨‍🎓 About Me
+## 👨‍🎓 About me
 
 🎓 Studying to become a Frontend Developer (2024-2026).
 
@@ -10,13 +10,13 @@ Hi there! 👋 I am a frontend developer in training with a passion for creating
 
 🌱 Currently learning more about modern web development and how to create intuitive and responsive interfaces.
 
-## 🌍 Where to Find Me
+## 🌍 Where to find me
 
 💼 [LinkedIn](https://www.linkedin.com/in/ellinor-johansson-957a20224/)
 
 📧 ellinor.asaka@gmail.com
 
-## 💡 Fun Facts
+## 💡 Fun facts
 
 When I'm not coding, I enjoy reading books, baking, watching documentaries, and going for runs! 🏃
 
