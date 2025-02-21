@@ -10,6 +10,8 @@ Hi there! 👋 I am a Frontend Developer in training with a passion for creating
 
 🌱 Currently learning more about modern web development and how to create intuitive and responsive interfaces.
 
+📱 Has a degree in digital marketing. (2022-2024)
+
 ## 🌍 Where to find me
 
 💼 [LinkedIn](https://www.linkedin.com/in/ellinor-johansson-957a20224/)
