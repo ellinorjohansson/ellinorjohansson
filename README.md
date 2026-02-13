@@ -20,6 +20,8 @@ Hi there! 👋 I am a Frontend Developer in training with a passion for creating
 
 [Link to my portfolio](https://steady-liger-f12f09.netlify.app/)
 
+Explore my ongoing project [Lopply](https://lopply.vercel.app/) 🏃‍➡️
+
 ## 💡 Fun facts
 
 When I'm not coding, I enjoy reading books, baking, watching documentaries, and going for runs! 🏃
