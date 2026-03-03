@@ -1,6 +1,6 @@
 # ⭐ Welcome to my GitHub profile!
 
-Hi there! 👋 I am a Frontend Developer in training with a passion for creating beautiful and functional web applications. Here's a bit about me:
+Hi there! 👋 I am a Frontend Developer with a passion for creating beautiful and functional web applications. Here's a bit about me:
 
 ## 👨‍🎓 About me
 
