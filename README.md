@@ -24,7 +24,7 @@ Explore my ongoing project [Lopply](https://lopply.vercel.app/) 🏃‍➡️
 
 ## 💡 Fun facts
 
-When I'm not coding, I enjoy reading books, baking, watching documentaries, and going for runs! 🏃
+When I'm not coding, I enjoy reading books, baking, watching documentaries and going for runs! 🏃
 
 ## Thanks for visiting my profile! Feel free to get in touch (●'◡'●)
 
