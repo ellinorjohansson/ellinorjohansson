@@ -7,9 +7,9 @@ I enjoy building clean, responsive interfaces and experimenting with modern web 
 
 ## 🚀 Currently
 
-• Studying Frontend Development  
-• Building: **Lopply** – a running community app  
-• Learning more about **React, TypeScript and modern UI patterns**
+🧠 • Studying Frontend Development  
+🏃‍♀️‍➡️ • Building: **Lopply** – a running community app  
+🌱 • Learning more about **React, TypeScript and modern UI patterns**
 
 ---
 
