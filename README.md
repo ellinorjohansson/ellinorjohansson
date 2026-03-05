@@ -1,32 +1,39 @@
-# ⭐ Welcome to my GitHub profile!
+# Hiii, I'm Ellinor 👋
 
-Hi there! 👋 I am a Frontend Developer with a passion for creating beautiful and functional web applications. Here's a bit about me:
+Frontend developer in progress (2024-2026) with a background in digital marketing.  
+I enjoy building clean, responsive interfaces and experimenting with modern web tech.
 
-## 👨‍🎓 About me
+---
 
-🎓 Studying to become a Frontend Developer (2024-2026).
+## 🚀 Currently
 
-💻 Exploring everything from HTML, CSS, and JavaScript to frameworks like React.
+• Studying Frontend Development  
+• Building: **Lopply** – a running community app  
+• Learning more about **React, TypeScript and modern UI patterns**
 
-🌱 Currently learning more about modern web development and how to create intuitive and responsive interfaces.
+---
 
-📱 Has a degree in digital marketing. (2022-2024)
+## 🛠 Tech I work with
 
-## 🌍 Where to find me
+HTML • CSS • Sass • Tailwind • JavaScript • TypeScript  
+React • Next.js • Vue  
+…and much more depending on the project!
 
-💼 [LinkedIn](https://www.linkedin.com/in/ellinor-johansson-957a20224/)
+---
 
-## 💻 Portfolio
+## 🌐 Links
 
-[Link to my portfolio](https://steady-liger-f12f09.netlify.app/)
+💼 [LinkedIn](https://www.linkedin.com/in/ellinor-johansson-957a20224/)  
 
-Explore my ongoing project [Lopply](https://lopply.vercel.app/) 🏃‍➡️
+🌍 [My portfolio](https://steady-liger-f12f09.netlify.app/) 
 
-## 💡 Fun facts
+🏃 [Lopply (current project)](https://lopply.vercel.app/) 
 
-When I'm not coding, I enjoy reading books, baking, watching documentaries and going for runs! 🏃
+---
 
-## Thanks for visiting my profile! Feel free to get in touch (●'◡'●)
+## ☕ Fun fact
+
+When I'm not coding I’m usually reading, baking, watching documentaries or going for a run.
 
 <!---
 ellinorjohansson/ellinorjohansson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
