@@ -7,9 +7,9 @@ I enjoy building clean, responsive interfaces and experimenting with modern web 
 
 ## 🚀 Currently
 
-🧠 • Studying Frontend Development  
-🏃‍♀️‍➡️ • Building: **Lopply** – a running community app  
-🌱 • Learning more about **React, TypeScript and modern UI patterns**
+🧠 Studying Frontend Development  
+🏃‍♀️‍➡️ Building: **Lopply** – a running community app  
+🌱 Learning more about **React, TypeScript and modern UI patterns**
 
 ---
 
@@ -33,7 +33,7 @@ React • Next.js • Vue
 
 ## ☕ Fun fact
 
-When I'm not coding I’m usually reading, baking, watching documentaries or going for a run.
+When I'm not coding I’m usually reading 📖, baking 🍪, watching documentaries 📺 or going for a run 🏃‍♀.
 
 <!---
 ellinorjohansson/ellinorjohansson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
